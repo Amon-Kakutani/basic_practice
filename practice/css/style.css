@@ -1,0 +1,44 @@
+body{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    
+}
+
+.wrapper{
+    width: 1000px;
+
+    margin: 30px auto;
+    background-color: #000000;
+
+    margin: 30px auto;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: 90;
+    color: rgb(127, 9, 238);
+}
+.slick-dots li button:before {
+    opacity: 40;
+    color: rgb(129, 4, 245);
+  
+}
+.slick-next:before{
+    opacity: 90;
+    color:rgb(130, 12, 240)
+
+}
+.slick-prev:before{
+    opacity: 40;
+    color: rgb(124, 16, 224);
+}
+
+
+
+
+
+
+
